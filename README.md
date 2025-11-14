@@ -147,3 +147,10 @@ Opção **8**
 
 -   https://data.worldbank.org/
 -   https://api.worldbank.org/
+  
+------------------------------------------------------------------------
+
+| Nome                    | RM     |
+| ----------------------- | ------ |
+| Kevin Carvalho Venancio | 561459 |
+| Guilherme Moura Badia   | 561568 |
