@@ -139,7 +139,6 @@ Opção **8**
     - labour_force
     - employment_agriculture_pct
     - female_labor_participation
-    - (adicione outras aqui)
 
 ------------------------------------------------------------------------
 
